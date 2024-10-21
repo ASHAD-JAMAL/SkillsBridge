@@ -1,0 +1,6 @@
+[submodule "skillBridge"]
+	path = skillBridge
+	url = https://github.com/ASHAD-JAMAL/skillBridge.git
+[submodule "Skill_Bridge_Backend"]
+	path = Skill_Bridge_Backend
+	url = https://github.com/ASHAD-JAMAL/Skill_Bridge_Backend.git
